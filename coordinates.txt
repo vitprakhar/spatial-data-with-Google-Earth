@@ -1,0 +1,9 @@
+Nupac Apartments: 34.031846, -118.282684
+Jefferson/Vermont: 34.025506, -118.291622
+Figueroa/Jefferson: 34.021896, -118.280034
+Exposition/Vermont: 34.018356, -118.291579
+Exposition/Figueroa: 34.018339, -118.282309
+Leavey Library: 34.022269, -118.282931
+Viterbi School: 34.020740, -118.288811
+Marshall School: 34.018979, -118.285678
+King’s Hall: 34.024350, -118.288210
