@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<description>Nearest Neighbours</description>
+<Placemark id="track2">
+<LineString>
+<coordinates>
+-118.282684,34.031846
+-118.288210,34.024350,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="track3">
+<LineString>
+<coordinates>
+-118.282684,34.031846
+-118.282931,34.022269,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="track4">
+<LineString>
+<coordinates>
+-118.282684,34.031846
+-118.280034,34.021896,0
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

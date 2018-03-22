@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+<name>Polygon</name>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+-118.291513,34.018354
+-118.291557,34.025458
+-118.282684,34.031846
+-118.280041,34.021917
+-118.282292,34.018367
+-118.291513,34.018354
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+<innerBoundaryIs>
+<LinearRing>
+<coordinates>
+-118.291513,34.018354
+-118.291557,34.025458
+-118.282684,34.031846
+-118.280041,34.021917
+-118.282292,34.018367
+-118.291513,34.018354
+</coordinates>
+</LinearRing>
+</innerBoundaryIs>
+</Polygon>
+</Placemark>
+</kml>
